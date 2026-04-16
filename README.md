@@ -22,10 +22,9 @@
 
   <!-- 前端 & 工程化 -->
   <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,vite,webpack,rollup" />
-  <img src="https://skillicons.dev/icons?i=nginx" />
-
+  <br/>
   <!-- Node & 后端 -->
-  <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgreSQL" />
+  <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgreSQL,nginx" />
 
   <!-- AI / LLM（JS 生态） -->
   <br/>
