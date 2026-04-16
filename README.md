@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,vite,webpack,rollup" />
   <br/>
   <!-- Node & 后端 -->
-  <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgreSQL,nginx" />
+  <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgres,nginx" />
 
   <!-- AI / LLM（JS 生态） -->
   <br/>
