@@ -21,7 +21,7 @@
 <div align="center">
 
   <!-- 前端 & 工程化 -->
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,webpack,rollup" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,vite,webpack,rollup" />
   <img src="https://skillicons.dev/icons?i=vitest,nginx" />
 
   <!-- Node & 后端 -->
