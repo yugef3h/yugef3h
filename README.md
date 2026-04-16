@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  💻 <b>Node.js 全栈开发者</b>：深耕前端工程化与 React 源码，专注高可维护、高性能应用构建。<br>
+  💻 <b>全栈开发者</b>：深耕前端工程化，专注高可维护、高性能应用构建。<br>
   🤖 <b>AI 应用探索者</b>：实践 RAG、向量数据库与大模型落地，推动 AI 能力在业务中的运用。<br>
   🚀 <b>效率驱动者</b>：融合工程化思维与 AI 技术，用自动化与智能化提升研发效率与体验。
 </p>
@@ -21,7 +21,7 @@
 <div align="center">
 
   <!-- 前端 & 工程化 -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,webpack,rollup" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,webpack,rollup" />
   <img src="https://skillicons.dev/icons?i=vitest,nginx" />
 
   <!-- Node & 后端 -->
