@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=vitest,nginx" />
 
   <!-- Node & 后端 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,golang,python,nestjs,rabbitmq,redis,mysql,docker,prisma,postgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,golang,python,nestjs,redis,mysql,docker,postgreSQL" />
 
   <!-- AI / LLM（JS 生态） -->
   <br>
