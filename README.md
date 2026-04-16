@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgreSQL" />
 
   <!-- AI / LLM（JS 生态） -->
-  <br>
+  <br/>
   <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
