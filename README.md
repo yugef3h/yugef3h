@@ -42,7 +42,7 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=yugef3h&show_icons=true&include_all_commits=true&t=20260529" alt="GitHub Stats" height="160" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=yugef3h&show_icons=true&include_all_commits=true" alt="GitHub Stats" height="160" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yugef3h&layout=compact&langs_count=8" alt="Top Languages" height="160" />
 </p>
 
