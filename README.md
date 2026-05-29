@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/掘金-Juejin-blue?logo=juejin" />
   </a>
   <img src="https://img.shields.io/badge/WeChat-yuqlf3h-brightgreen?logo=wechat" />
+  <a href="https://github.com/yugef3h">
+    <img src="https://img.shields.io/github/stars/yugef3h?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="total stars">
+  </a>
 </p>
 
 <p>
@@ -43,8 +46,14 @@
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yugef3h&layout=compact&langs_count=8" alt="Top Languages" height="160" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yugef3h&label=Profile%20Views&style=flat" alt="profile views" />
-  <a href="https://github.com/yugef3h?tab=followers"><img src="https://img.shields.io/github/followers/yugef3h?style=flat" alt="followers"></a>
-  <a href="https://github.com/yugef3h"><img src="https://img.shields.io/github/stars/yugef3h?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="total stars"></a>
-</p>
+  <a href="https://github.com/yugef3h?tab=followers">
+    <img src="https://img.shields.io/github/followers/yugef3h?style=flat" alt="followers">
+  </a>
+  <a href="https://github.com/yugef3h">
+    <img src="https://img.shields.io/github/stars/yugef3h?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="total stars">
+  </a>
+</p> 
+-->
