@@ -16,13 +16,13 @@
 <div align="center">
 
   <!-- 前端 & 工程化 -->
-  <img width="400" src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack,golang,python,nodejs,redis,docker,postgres" />
+  <img width="475" src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack,golang,python,nodejs,redis,docker,postgres" />
 
   <!-- AI / LLM（JS 生态） -->
   <br/>
-  <img width="130" src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img width="130" src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img width="130" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img width="156" src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img width="156" src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img width="156" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br />
 <br />
