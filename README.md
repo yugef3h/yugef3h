@@ -13,21 +13,10 @@
   </a>
 </p>
 
-<p>
-  💻 <b>Full-Stack Developer</b>：深耕前后端工程化，专注高可维护、高性能应用构建。<br>
-  🤖 <b>AI Application Enthusiast</b>：实践 RAG、向量数据库与大模型落地，推动 AI 能力在业务中的运用。<br>
-  🚀 <b>Efficiency Advocate</b>：融合工程化思维与 AI 技术，用自动化与智能化提升研发效率与体验。
-</p>
-
-## 🧰 技术栈
-
 <div align="center">
 
   <!-- 前端 & 工程化 -->
-  <img width="400" src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack" />
-  <br/>
-  <!-- Node & 后端 -->
-  <img width="400" src="https://skillicons.dev/icons?i=golang,python,nodejs,redis,docker,postgres" />
+  <img width="400" src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack,golang,python,nodejs,redis,docker,postgres" />
 
   <!-- AI / LLM（JS 生态） -->
   <br/>
@@ -35,9 +24,23 @@
   <img width="130" src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img width="130" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
+<br />
+<br />
+
+<p>
+  💻 <b>Full-Stack Developer</b>：深耕前后端工程化，专注高可维护、高性能应用构建。<br>
+  🤖 <b>AI Application Enthusiast &nbsp;</b>：实践 RAG、向量数据库与大模型落地，推动 AI 能力在业务中的运用。<br>
+  🚀 <b>Efficiency Advocate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>：融合工程化思维与 AI 技术，用自动化与智能化提升研发效率与体验。
+</p>
 </div>
 
-## 📊 GitHub 统计
+
+
+
+
+
+
+##
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=yugef3h&show_icons=true&include_all_commits=true&&hide=contribs" alt="GitHub Stats" height="160" />
