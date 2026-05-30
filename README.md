@@ -24,18 +24,16 @@
 <div align="center">
 
   <!-- 前端 & 工程化 -->
-  <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,vite,webpack,rollup" />
+  <img width="400" src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack" />
   <br/>
   <!-- Node & 后端 -->
-  <img src="https://skillicons.dev/icons?i=golang,python,nodejs,nestjs,redis,mysql,docker,postgres,nginx" />
+  <img width="400" src="https://skillicons.dev/icons?i=golang,python,nodejs,redis,docker,postgres" />
 
   <!-- AI / LLM（JS 生态） -->
   <br/>
-  <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0077B5?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img width="130" src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img width="130" src="https://img.shields.io/badge/LangGraph.js-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img width="130" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
