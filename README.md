@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 我是洛宇 👋</h1>
+<h2 align="center">Hi, I'm Leo（洛宇）👋</h1>
 
 <p align="center">
   <a href="mailto:ql1993xl@gmail.com">
