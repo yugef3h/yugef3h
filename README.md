@@ -34,27 +34,9 @@
 </p>
 </div>
 
-
-
-
-
-
-
 ##
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=yugef3h&show_icons=true&include_all_commits=true" alt="GitHub Stats" height="160" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yugef3h&layout=compact&langs_count=8" alt="Top Languages" height="160" />
 </p>
-
-<!-- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugef3h&label=Profile%20Views&style=flat" alt="profile views" />
-  <a href="https://github.com/yugef3h?tab=followers">
-    <img src="https://img.shields.io/github/followers/yugef3h?style=flat" alt="followers">
-  </a>
-  <a href="https://github.com/yugef3h">
-    <img src="https://img.shields.io/github/stars/yugef3h?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="total stars">
-  </a>
-</p> 
--->
