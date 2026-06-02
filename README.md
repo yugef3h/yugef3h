@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I'm Leo（洛宇）👋</h1>
 
 <p align="center">
-  <a href="mailto:ql1993xl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ql1993xl%40gmail.com-red?logo=gmail&logoColor=white" />
-  </a>
   <a href="https://juejin.cn/user/4089838986341687/posts">
     <img src="https://img.shields.io/badge/掘金-Juejin-blue?logo=juejin" />
+  </a>
+  <a href="mailto:ql1993xl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ql1993xl%40gmail.com-red?logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/WeChat-yuqlf3h-brightgreen?logo=wechat" />
   <a href="https://github.com/yugef3h">
